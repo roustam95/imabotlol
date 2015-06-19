@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         ima bot lol
-// @namespace    https://github.com/volundr-/imabotlol
+// @namespace    https://github.com/volundr-/
 // @version      0.12
 // @description  whee ima bot lol
 // @author       Volundr
